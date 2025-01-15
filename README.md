@@ -7,14 +7,6 @@
 
 ---
 
-<p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=prajwalmehrotra12212095&theme=onedark">
-    <img src="https://github-profile-trophy.vercel.app/?username=prajwalmehrotra12212095&theme=onedark" alt="GitHub Trophies" />
-  </a>
-</p>
-
----
-
 <h3 align="center">🌟 About Me</h3>
 
 - 👀 I’m interested in **learning and exploring new technologies**  
@@ -25,7 +17,7 @@
 
 ---
 
-<h3 align="center">🚀 Tech Stack</h3>
+<h3 align="center">🚀 Skills & Tools</h3>
 <p align="center">
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50" />
@@ -55,6 +47,28 @@
 
 ---
 
+<h3 align="center">📊 GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=prajwalmehrotra12212095&theme=radical" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prajwalmehrotra12212095&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prajwalmehrotra12212095&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+<h3 align="center">🏆 Achievements</h3>
+<p align="center">
+  <a href="https://github-profile-trophy.vercel.app/?username=prajwalmehrotra12212095&theme=onedark">
+    <img src="https://github-profile-trophy.vercel.app/?username=prajwalmehrotra12212095&theme=onedark" alt="GitHub Trophies" />
+  </a>
+</p>
+
+---
+
 <h3 align="center">🌐 Connect with Me</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/prajwal-m-486827130/" target="_blank">
@@ -73,26 +87,6 @@
 
 ---
 
-<h3 align="center">📊 My GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=prajwalmehrotra12212095&theme=radical" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prajwalmehrotra12212095&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prajwalmehrotra12212095&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-<h3 align="center">✨ Dynamic Quote of the Day</h3>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the Day" />
-</p>
-
----
-
 <h3 align="center">📅 Learning Goals</h3>
 <ul>
   <li>Master <strong>DevOps tools</strong> like Docker, Kubernetes, and AWS</li>
@@ -102,12 +96,9 @@
   <li>Work on <strong>real-world projects</strong> to apply my skills and learn collaboratively</li>
 </ul>
 
-
 ---
 
-<h3 align="center">🏆 Fun Badges</h3>
+<h3 align="center">✨ Dynamic Quote of the Day</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-Passion-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Trek-Lover-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Technology-Enthusiast-green?style=for-the-badge" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the Day" />
 </p>
