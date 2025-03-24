@@ -80,10 +80,14 @@
   <a href="https://www.hackerrank.com/@prajwalmehrotra1" target="_blank">
     <img src="https://img.shields.io/badge/-HackerRank-green?style=for-the-badge&logo=hackerrank" alt="HackerRank" />
   </a>
+  <a href="https://www.geeksforgeeks.org/user/prajwalmehrotra/" target="_blank">
+    <img src="https://img.shields.io/badge/-GeeksforGeeks-darkgreen?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
+  </a>
   <a href="https://instagram.com/mehrotraprajwal" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram" alt="Instagram" />
   </a>
 </p>
+
 
 ---
 
