@@ -94,7 +94,6 @@
 <h3 align="center">📅 Learning Goals</h3>
 <ul>
   <li>Master <strong>DevOps tools</strong> like Docker, Kubernetes, and AWS</li>
-  <li>Challenge myself with advanced <strong>SQL</strong> problems on <strong>LeetCode</strong></li>
   <li>Explore <strong>microservices architecture</strong> and CI/CD pipelines</li>
   <li>Practice <strong>C++</strong> and strengthen my understanding of <strong>Data Structures and Algorithms (DSA)</strong></li>
   <li>Work on <strong>real-world projects</strong> to apply my skills and learn collaboratively</li>
