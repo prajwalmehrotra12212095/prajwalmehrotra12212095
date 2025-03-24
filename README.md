@@ -77,7 +77,7 @@
   <a href="https://leetcode.com/u/prajwalmehrotra234/" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-orange?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   </a>
-  <a href="https://www.hackerrank.com/@prajwalmehrotra1" target="_blank">
+  <a href="https://www.hackerrank.com/profile/prajwalmehrotra1" target="_blank">
     <img src="https://img.shields.io/badge/-HackerRank-green?style=for-the-badge&logo=hackerrank" alt="HackerRank" />
   </a>
   <a href="https://www.geeksforgeeks.org/user/prajwalmehrotra/" target="_blank">
