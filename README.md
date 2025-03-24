@@ -9,8 +9,7 @@
 
 <h3 align="center">🌟 About Me</h3>
 
-- 👀 I’m interested in **learning and exploring new technologies**  
-- 🌱 I’m currently learning **DevOps, Docker, Kubernetes, and SQL**  
+- 👀 I’m interested in **learning and exploring new technologies**   
 - 👯 I’m looking to collaborate on **exciting and innovative projects**  
 - 📫 Reach me at **prajwalmehotra26@gmail.com**  
 - ⚡ Fun fact: **I love trekking and exploring nature!**
