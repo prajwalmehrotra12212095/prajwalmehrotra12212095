@@ -71,7 +71,7 @@
 
 <h3 align="center">🌐 Connect with Me</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/prajwal-m-486827130/" target="_blank">
+  <a href="https://www.linkedin.com/in/prajwal-mehrotra-486827130/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://leetcode.com/u/prajwalmehrotra234/" target="_blank">
